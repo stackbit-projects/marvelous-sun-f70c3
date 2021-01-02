@@ -7,7 +7,7 @@ description: >-
   _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 baseurl: ''
-url: ''
+url: "http://laderast.github.io"
 favicon: ''
 yat:
   date_format: '%b %d, %Y'
